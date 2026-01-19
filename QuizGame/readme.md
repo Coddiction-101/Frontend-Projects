@@ -26,22 +26,6 @@ Built using **HTML, CSS, and JavaScript**, the application features dynamic ques
 
 ---
 
-## 📸 Screenshots
-
-### Quiz Start Screen
-
-![Quiz Start Screen](screenshots/quiz-start-screen.png)
-
-### Quiz Question Interface
-
-![Quiz Question Screen](screenshots/quiz-question-screen.png)
-
-### Quiz Result Screen
-
-![Quiz Result Screen](screenshots/quiz-result-screen.png)
-
----
-
 ## 🧰 Technologies Used
 
 * **HTML5**
