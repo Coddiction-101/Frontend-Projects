@@ -39,7 +39,6 @@ Built using **HTML, CSS, and JavaScript**, the application features dynamic ques
 ```
 quiz-game/
 │
-├── screenshots/          # UI screenshots
 ├── index.html            # Main HTML file
 ├── style.css             # Styling and layout
 ├── script.js             # Quiz logic
