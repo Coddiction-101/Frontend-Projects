@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kanban Board</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <h2>Kanban Board</h2>
+        <div class="board">
+            <!-- List first -->
+            <div class="list" id="list1">
+                <h2>To-Does</h2>
+                <div class="card" draggable="true" id="card1">Buy Groceries</div>
+                <div class="card" draggable="true" id="card2">Go Park</div>
+            </div>
+
+            <!-- List second -->
+            <div class="list" id="list2">
+                <h2>In Progress</h2>
+                <div class="card" draggable="true" id="card3">Studying Python c1</div>
+            </div>
+            <!-- List third -->
+            <div class="list" id="list3">
+                <h2>Done</h2>
+                <div class="card" draggable="true" id="card4">Done</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
